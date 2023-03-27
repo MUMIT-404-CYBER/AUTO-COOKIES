@@ -10,21 +10,15 @@
 
 * `pip install requests`
 
-* `pip install mechanize`
-
-* `pip install futures`
-
-* `pip install rich`
-
 * `pip install bs4`
 
-* `rm -rf GREEN-FIRE`
+* `rm -rf AUTO-COOKIES`
 
-* `git clone https://github.com/MUMIT-404-CYBER/GREEN-FIRE.git`
+* `git clone https://github.com/MUMIT-404-CYBER/AUTO-COOKIES.git`
 
-* `cd GREEN-FIRE`
+* `cd AUTO-COOKIES`
 
-* `python fire.py`
+* `python Cookie.py`
 
 
 
